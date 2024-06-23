@@ -103,5 +103,11 @@ p {
   .primary-link {
     display: block;
     text-align: center;
+     margin: 0 20px;
+  }
+  .col-sm-6 {
+    display: block;
+    text-align: center;
+   
   }
 }
